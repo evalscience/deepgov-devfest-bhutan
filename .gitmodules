@@ -1,0 +1,3 @@
+[submodule "deepgov-ndi-bot"]
+	path = deepgov-ndi-bot
+	url = https://github.com/evalscience/deepgov-ndi-bot.git
