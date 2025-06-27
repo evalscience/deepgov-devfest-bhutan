@@ -1,4 +1,4 @@
-# Team [TEAM_NUMBER] - [PROJECT_NAME]
+# Team 12 - DeepGov Bhutan
 
 ## 🚀 Project Overview
 Brief description of your hackathon project.
@@ -6,10 +6,10 @@ Brief description of your hackathon project.
     **Hackathon Theme**: Developing decentralized applications powered by Bhutan's National Digital Identity
 
 ## 👥 Team Members
-- **Team Lead**: [Name] - [@github-username] - [Role/Expertise]
-- **Member 2**: [Name] - [@github-username] - [Role/Expertise]
-- **Member 3**: [Name] - [@github-username] - [Role/Expertise]
-- **Member 4**: [Name] - [@github-username] - [Role/Expertise]
+- **Team Lead**: David Dao - @daviddao - Team Lead / AI & Research
+- **Member 2**: Sharfy Adamantine - @s-adamantine - Team Lead / Frontend
+- **Member 3**: Carl Barrdahl - @carlbarrdahl - Full Stack / NDI Assistant
+- **Member 4**: Satyam Mishra - @satyam-mishra-pce - Frontend / Dashboard
 
 ## 🛠️ Technology Stack
 - **Frontend**: 

@@ -1,0 +1,1 @@
+Make an image of a friendly Bhutanese takin politician in traditional Bhutanese clothing, in style of anime 90s pixel art

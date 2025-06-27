@@ -1,0 +1,62 @@
+{
+  "name": "tttc-common",
+  "version": "1.0.0",
+  "description": "Shares common code across monorepo",
+  "exports": {
+    "./api": {
+      "types": "./dist/api/index.d.ts",
+      "default": "./dist/api/index.js"
+    },
+    "./apiPyserver": {
+      "types": "./dist/apiPyserver/index.d.ts",
+      "default": "./dist/apiPyserver/index.js"
+    },
+    "./firebase": {
+      "types": "./dist/firebase/index.d.ts",
+      "default": "./dist/firebase/index.js"
+    },
+    "./morphisms": {
+      "types": "./dist/morphisms/index.d.ts",
+      "default": "./dist/morphisms/index.js"
+    },
+    "./morphisms/pipeline": {
+      "types": "./dist/morphisms/pipeline/index.d.ts",
+      "default": "./dist/morphisms/pipeline/index.js"
+    },
+    "./prompts": {
+      "types": "./dist/prompts/index.d.ts",
+      "default": "./dist/prompts/index.js"
+    },
+    "./schema": {
+      "types": "./dist/schema/index.d.ts",
+      "default": "./dist/schema/index.js"
+    },
+    "./utils": {
+      "types": "./dist/utils/index.d.ts",
+      "default": "./dist/utils/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "vitest",
+    "build": "npx tsc",
+    "watch": "npx tsc --watch --outDir ./dist"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "uuid": "^10.0.0",
+    "zod": "3.22.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "@types/react": "^18.2.67",
+    "@types/uuid": "^10.0.0",
+    "typescript": "^5.3.3",
+    "vitest": "^3.1.2"
+  }
+}
