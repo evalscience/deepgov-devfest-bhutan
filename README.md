@@ -131,6 +131,7 @@ bun run dev
 - [x] **Real-Time Analytics Dashboard**: Live visualization of citizen sentiment, demographic insights, and policy preference clustering using Taiwan's proven "broad listening" methodology
 - [x] **Rate-Limited Secure Access**: 100 requests/hour rate limiting with session management prevents abuse while ensuring equitable access to civic engagement tools
 - [x] **Constitutional AI Framework**: AI responses guided by constitutional principles emphasizing cultural preservation, environmental sustainability, and community well-being over pure economic metrics
+- [X] **AI Review System**: Distilled value-aligned AI then reviews project and funding proposals and represents citizens at scale
 
 ## 🔐 Security & Privacy
 
@@ -212,9 +213,12 @@ bun remove openai
 
 ## 📱 Demo
 
-- **Live Demo**: [[URL if deployed]](https://bhutan.deepgov.org/)
+- **Live Demo**: 
+  - [Takin AI Telegram Assistant](https://t.me/takinaibot)
+  - [Live Broad-Listening Dashboard](https://bhutan.deepgov.org/)
+  - [AI Reviews by Takin AI](https://reviews.deepgov.org)
 - **Video Demo**: [URL to demo video]
-- **Presentation**: [URL to presentation slides]
+- **Presentation**: [Slides](https://docs.google.com/presentation/d/1V1c7Eam93egXeiFLITA6vY-Ztxd-urRoOh_fv0gZx0M/edit?usp=sharing)
 
 ## 🏆 DevFest Hackathon 2025 Details
 
