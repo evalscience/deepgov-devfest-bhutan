@@ -51,34 +51,36 @@ Bhutan's transition to constitutional monarchy has achieved significant democrat
 - **Scalability Constraints**: Complex policy decisions and resource allocation processes cannot efficiently incorporate citizen input while maintaining democratic legitimacy
 
 **Self-Sovereign Identity Opportunity:**
-Bhutan has pioneered National Digital Identity (NDI) infrastructure that enables verified citizen participation, yet this powerful technology remains **critically underutilized** for transforming governance itself. Unlike token-based systems vulnerable to wealth concentration and Sybil attacks, NDI provides authentic "one verified citizen, one voice" foundations for legitimate digital democracy.
+Bhutan has pioneered National Digital Identity (NDI) infrastructure that enables verified citizen participation, yet this powerful technology remains **critically underutilized** for evidence-driven policy making. Unlike anonymous surveys or social media polls vulnerable to manipulation, NDI provides authentic "one verified citizen, one voice" foundations for legitimate democratic consultation on any policy topic.
 
-**Data Sovereignty Crisis:**
-Citizens currently have minimal control over how their preferences, values, and policy inputs are collected, processed, and represented in governance decisions, creating disconnection between authentic community values and governmental actions.
+**Democratic Participation Gap:**
+Traditional policy-making processes lack systematic mechanisms to gather, analyze, and integrate authentic citizen perspectives into governance decisions. Policymakers operate with limited evidence about citizen values and preferences, while citizens have minimal opportunities to meaningfully influence policy development across diverse topics - from healthcare and education to environmental protection and economic development.
 
 ## 💡 Solution
 
-DeepGov Bhutan creates the world's first **NDI-verified AI-assisted democratic governance system** that solves the authentication problem plaguing decentralized governance while scaling authentic citizen participation.
+DeepGov Bhutan creates the world's first **NDI-verified AI-assisted evidence-driven policy platform** that enables authentic, large-scale democratic consultation on any policy topic while preserving cultural values and individual privacy.
 
 ### **National Digital Identity Integration**
-- **Verified Participation**: NDI authentication ensures "one verified citizen, one voice" eliminating Sybil attacks and fake participation common in token-based DAOs
-- **Cultural Authenticity**: NDI enables demographic-aware AI representatives reflecting authentic Buddhist, Nepali, and diverse ethnic community values
-- **Multilingual Access**: Native language interfaces (Dzongkha, Nepali, English) connected through verified identity for inclusive participation
+- **Verified Participation**: NDI authentication ensures "one verified citizen, one voice" eliminating fake responses and ensuring representative consultation across all 20 dzongkhags for any policy survey
+- **Cultural Authenticity**: NDI demographic data enables culturally-sensitive conversations respecting Buddhist, Nepali, and diverse ethnic community perspectives across all policy domains
+- **Multilingual Access**: Native language interfaces (Dzongkha, Nepali, English) connected through verified identity for truly inclusive democratic participation
 
-### **Decentralized Architecture**
-- **Configurable AI Representatives**: Citizens co-design and elect AI governance assistants for each dzongkhag and demographic group using quadratic voting mechanisms
-- **Polis Consensus Integration**: Taiwan-proven "broad listening" tools identify value clusters and build consensus across polarized communities without centralized manipulation
-- **Blockchain Governance**: Smart contracts on Ethereum/Polygon enable transparent, tamper-proof voting and resource allocation decisions
-- **Zero-Knowledge Proofs**: Maintain privacy while ensuring verified participation and authentic representation
+### **AI-Assisted Governance Platform**
+- **Flexible Policy Surveys**: System prompts can be dynamically adjusted to conduct evidence gathering on any policy topic - healthcare, education, environment, economy, or governance reforms
+- **Conversational Evidence Gathering**: Takin AI engages citizens in nuanced discussions guided by Gross National Happiness principles, extracting deeper insights than traditional surveys
+- **Broad Listening Integration**: Taiwan-proven methodology analyzes citizen input to identify consensus areas, value clusters, and polarization patterns across communities
+- **Value-Aligned Policy Tools**: Citizen insights are synthesized into value-aligned screening and review frameworks that help policymakers evaluate proposals against authentic community values
+- **Real-Time Democratic Intelligence**: Live dashboard provides policymakers with evidence-based insights into citizen priorities and concerns across policy domains
 
 ### **User Empowerment**
-- **Data Sovereignty**: Citizens maintain complete control over their governance preferences through self-sovereign identity and encrypted personal data vaults
-- **Transparent Reasoning**: Shapley value explanations show exactly how AI representatives reach recommendations, ensuring full accountability to human constituents
-- **Continuous Oversight**: Regular feedback and reconfiguration processes allow citizens to update their AI representatives' values and priorities
-- **Direct Democratic Input**: Integration with parliamentary processes where AI representatives synthesize citizen input for elected MPs while preserving constitutional monarchy framework
+- **Data Sovereignty**: Citizens control their consultation data through self-sovereign identity and can withdraw participation at any time
+- **Transparent Process**: Open-source system ensures citizens understand how their input is collected and analyzed
+- **Meaningful Recognition**: Civic engagement credentials reward sustained participation in national visioning processes
+- **Voice-First Accessibility**: Voice message support enables participation regardless of literacy levels or physical disabilities
+- **Self-Hoste Option**: The code is written to completely swap out the OpenAI API with a self-hosted Ollama option (described below) to ensure data sovereignity
 
 ### **Innovation Factor**
-DeepGov Bhutan represents the **first implementation of identity-verified, culturally-sensitive AI governance at national scale**. By solving the fundamental authentication challenge that limits most DAO governance systems, we're creating replicable infrastructure for legitimate digital democracy that amplifies rather than replaces human agency. This positions Bhutan as a global leader in authentic democratic participation while maintaining its unique constitutional heritage.
+DeepGov Bhutan represents the **first NDI-verified AI-assisted Governance Platform**. By combining NDI authentication with conversational AI, we enable unprecedented authentic citizen input into long-term national planning while maintaining Bhutan's unique cultural heritage and democratic values. This creates replicable infrastructure for legitimate policy consultation that amplifies citizen voices in constitutional monarchy frameworks.
 
 ## 🏗️ Setup Instructions
 
@@ -107,13 +109,14 @@ bun run dev
 ```
 
 ## 🌟 Key Features
-- [ ] **NDI Integration**: [Describe NDI integration features]
-- [ ] **Decentralized Identity Management**: [Self-sovereign identity features]
-- [ ] **Data Ownership**: [How users control their data]
-- [ ] **Blockchain Integration**: [Specific blockchain functionalities]
-- [ ] **User Authentication**: [Decentralized authentication system]
-- [ ] **[Custom Feature 1]**: [Description]
-- [ ] **[Custom Feature 2]**: [Description]
+- [x] **NDI Integration**: Seamless authentication with Bhutan's National Digital Identity wallet, supporting proof requests for citizen verification and verifiable credential issuance for civic engagement
+- [x] **AI-Powered Civic Engagement**: Conversational AI system (Takin AI) that engages citizens in policy discussions while respecting Bhutanese cultural values and Gross National Happiness principles
+- [x] **Multilingual Voice Support**: Voice message transcription and processing in multiple languages, making civic participation accessible across Bhutan's diverse linguistic communities
+- [x] **Privacy-First Architecture**: User IDs hashed with HMAC-SHA256, minimal data collection, and option for self-hosted LLMs to ensure government data sovereignty
+- [x] **Verified Participation System**: Citizens earn civic engagement credentials after meaningful participation (15+ interactions), creating authentic "one citizen, one voice" democratic input
+- [x] **Real-Time Analytics Dashboard**: Live visualization of citizen sentiment, demographic insights, and policy preference clustering using Taiwan's proven "broad listening" methodology
+- [x] **Rate-Limited Secure Access**: 100 requests/hour rate limiting with session management prevents abuse while ensuring equitable access to civic engagement tools
+- [x] **Constitutional AI Framework**: AI responses guided by constitutional principles emphasizing cultural preservation, environmental sustainability, and community well-being over pure economic metrics
 
 ## 🔐 Security & Privacy
 - **Data Protection**: 
