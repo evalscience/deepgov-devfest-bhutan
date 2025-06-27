@@ -27,8 +27,8 @@ Brief description of your hackathon project.
 - **Backend**:
 
   - Bun runtime
-  - Express.js
   - Telegraf (Telegram Bot API)
+  - Express.js
   - OpenAI API integration (can be replaced using self-hosted LLMs with Ollama)
   - Axios for HTTP requests
 
@@ -41,11 +41,7 @@ Brief description of your hackathon project.
 
 - **Other Tools**:
   - Bhutan National Digital Identity (NDI) integration
-  - Crypto/DID (Decentralized Identity) support
-  - Audio transcription capabilities
-  - Rate limiting and session management
-  - Husky for Git hooks
-  - ESLint for code quality
+  - Whisper for Audio transcription
 
 ## 🎯 Problem Statement
 
