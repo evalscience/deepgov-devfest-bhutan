@@ -8,10 +8,10 @@ Brief description of your hackathon project.
 
 ## 👥 Team Members
 
-- **Team Lead**: David Dao - @daviddao - Team Lead / AI & Research
-- **Member 2**: Sharfy Adamantine - @s-adamantine - Team Lead / Frontend
-- **Member 3**: Carl Barrdahl - @carlbarrdahl - Full Stack / NDI Assistant
-- **Member 4**: Satyam Mishra - @satyam-mishra-pce - Frontend / Dashboard
+- **Team Lead**: David Dao - [@daviddao](https://github.com/daviddao) - Team Lead / AI & Research
+- **Member 2**: Sharfy Adamantine - [@s-adamantine](https://github.com/s-adamantine) - Team Lead / Frontend
+- **Member 3**: Carl Barrdahl - [@carlbarrdahl](https://github.com/carlbarrdahl) - Full Stack / NDI Assistant
+- **Member 4**: Satyam Mishra - [@satyam-mishra-pce](https://github.com/satyam-mishra-pce) - Frontend / Dashboard
 
 ## 🛠️ Technology Stack
 
