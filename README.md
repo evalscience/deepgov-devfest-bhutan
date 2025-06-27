@@ -83,7 +83,7 @@ DeepGov Bhutan creates the world's first **NDI-verified AI-assisted evidence-dri
 - **Transparent Process**: Open-source system ensures citizens understand how their input is collected and analyzed
 - **Meaningful Recognition**: Civic engagement credentials reward sustained participation in national visioning processes
 - **Voice-First Accessibility**: Voice message support enables participation regardless of literacy levels or physical disabilities
-- **Self-Hoste Option**: The code is written to completely swap out the OpenAI API with a self-hosted Ollama option (described below) to ensure data sovereignity
+- **Self-Hosted Option**: The code is written to completely swap out the OpenAI API with a self-hosted Ollama option (described below) to ensure data sovereignity
 
 ### **Innovation Factor**
 
