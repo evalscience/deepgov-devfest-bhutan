@@ -13,9 +13,13 @@ Brief description of your hackathon project.
 
 ## 🛠️ Technology Stack
 - **Frontend**: 
+
 - **Backend**: 
+
 - **Database**: 
+
 - **Other Tools**: 
+
 
 ## 🎯 Problem Statement
 Describe the real-world challenge your project addresses using decentralized technology or Bhutan's National Digital Identity. Consider:
@@ -29,27 +33,6 @@ Explain your decentralized approach and how it utilizes:
 - **Decentralized Architecture**: Your approach to decentralization
 - **User Empowerment**: How citizens maintain authority over their data
 - **Innovation Factor**: What makes your solution groundbreaking
-
-## 🖥️ Infrastructure Access
-
-### Virtual Machine Access
-**Development VM**: `[VM_NAME]`
-- **IP Address**: `[VM_IP_ADDRESS]`
-- **Username**: `[VM_USERNAME]`
-- **Password**: `[VM_PASSWORD]`
-- **SSH Access**: `ssh [VM_USERNAME]@[VM_IP_ADDRESS]`
-
-### VPN Connection (Required)
-**Network Access**: 
-- **VPN URL**: "[https://secure.neyduetewa.gov.bt/]"
-- **Group**: `[VPN_GROUP]`
-- **Username**: `[VPN_USERNAME]`
-- **Password**: `[VPN_PASSWORD]`
-
-> **🔐 Credentials**: Actual credentials will be provided during the hackathon briefing session and via secure channels (email, or printed handouts). 
-📋 **For detailed setup instructions, troubleshooting, and NDI integration guide, see [INFRASTRUCTURE.md](INFRASTRUCTURE.md)**
->
-> ** Request for the Infrastructure: "[https://forms.gle/zY6J5M5tmwsvZXeT9]"
 
 ## 🏗️ Setup Instructions
 
