@@ -1,6 +1,9 @@
 [submodule "deepgov-ndi-bot"]
 	path = deepgov-ndi-bot
-	url = https://github.com/evalscience/deepgov-ndi-bot.git
+	url = https://github.com/evalscience/deepgov-ndi-bot
 [submodule "deepgov-bhutan"]
 	path = deepgov-bhutan
 	url = https://github.com/evalscience/deepgov-bhutan.git
+[submodule "broad-listening"]
+	path = broad-listening
+	url = https://github.com/gainforest/broad-listening
