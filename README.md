@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-Brief description of your hackathon project.
+DeepGov Bhutan is the world's first NDI-verified AI-assisted evidence-driven governance platform that enables authentic citizen participation in policy making. Using Bhutan's National Digital Identity for verified "one citizen, one voice" consultation, our platform combines conversational AI (TakinAI) with Taiwan's proven "broad listening" methodology to gather, analyze, and transform citizen perspectives into actionable policy intelligence while preserving cultural values and democratic principles. The data can then be used to develop efficient value-aligned AI that help review project and funding proposals.
 
 **Hackathon Theme**: Developing decentralized applications powered by Bhutan's National Digital Identity
 
@@ -237,11 +237,11 @@ bun remove openai
 
 Our project contributes to the hackathon's objectives by:
 
-- [ ] Exploring innovative applications leveraging NDI
-- [ ] Demonstrating decentralized technology capabilities
-- [ ] Empowering citizens with data ownership
-- [ ] Building solutions for real-world challenges
-- [ ] Contributing to Bhutan's position in decentralized identity space
+- [X] Exploring innovative applications leveraging NDI
+- [X] Demonstrating decentralized technology capabilities
+- [X] Empowering citizens with data ownership
+- [X] Building solutions for real-world challenges
+- [X] Contributing to Bhutan's position in decentralized identity space
 
 ## 📄 License
 
