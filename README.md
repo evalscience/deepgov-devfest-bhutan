@@ -27,8 +27,8 @@ Brief description of your hackathon project.
 - **Backend**:
 
   - Bun runtime
-  - Telegraf (Telegram Bot API)
   - Express.js
+  - Telegraf (Telegram Bot API)
   - OpenAI API integration (can be replaced using self-hosted LLMs with Ollama)
   - Axios for HTTP requests
 
@@ -41,7 +41,11 @@ Brief description of your hackathon project.
 
 - **Other Tools**:
   - Bhutan National Digital Identity (NDI) integration
-  - Whisper for Audio transcription
+  - Crypto/DID (Decentralized Identity) support
+  - Audio transcription capabilities
+  - Rate limiting and session management
+  - Husky for Git hooks
+  - ESLint for code quality
 
 ## 🎯 Problem Statement
 
@@ -49,7 +53,7 @@ Bhutan's transition to constitutional monarchy has achieved significant democrat
 
 **Traditional Centralized Challenges:**
 
-- **Limited Authentic Representation**: Conventional representative democracy struggles to capture the nuanced values of Bhutan's diverse communities, from Buddhist monastics to Nepali-speaking southern districts across 20 dzongkhags
+- **Limited Authentic Representation**: Conventional representative democracy struggles to capture the nuanced values of Bhutan's diverse communities
 - **Participation Barriers**: Low political awareness, underrepresentation of youth and women, and minimal rural community engagement limit inclusive governance
 - **Scalability Constraints**: Complex policy decisions and resource allocation processes cannot efficiently incorporate citizen input while maintaining democratic legitimacy
 
@@ -66,8 +70,8 @@ DeepGov Bhutan creates the world's first **NDI-verified AI-assisted evidence-dri
 ### **National Digital Identity Integration**
 
 - **Verified Participation**: NDI authentication ensures "one verified citizen, one voice" eliminating fake responses and ensuring representative consultation across all 20 dzongkhags for any policy survey
-- **Cultural Authenticity**: NDI demographic data enables culturally-sensitive conversations respecting Buddhist, Nepali, and diverse ethnic community perspectives across all policy domains
-- **Multilingual Access**: Native language interfaces (Dzongkha, Nepali, English) connected through verified identity for truly inclusive democratic participation
+- **Cultural Authenticity**: NDI demographic data enables culturally-sensitive conversations diverse ethnic community perspectives across all policy domains
+- **Multilingual Access**: Native language interfaces (Dzongkha, English) connected through verified identity for truly inclusive democratic participation
 
 ### **AI-Assisted Governance Platform**
 
@@ -208,7 +212,7 @@ bun remove openai
 
 ## 📱 Demo
 
-- **Live Demo**: [URL if deployed]
+- **Live Demo**: [[URL if deployed]](https://bhutan.deepgov.org/)
 - **Video Demo**: [URL to demo video]
 - **Presentation**: [URL to presentation slides]
 
