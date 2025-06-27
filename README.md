@@ -65,6 +65,8 @@ Traditional policy-making processes lack systematic mechanisms to gather, analyz
 
 ## 💡 Solution
 
+<img width="1047" alt="Screenshot 2025-06-27 at 10 31 43" src="https://github.com/user-attachments/assets/1488e86a-9e96-4715-82e3-d4b626d23f91" />
+
 DeepGov Bhutan creates the world's first **NDI-verified AI-assisted evidence-driven policy platform** that enables authentic, large-scale democratic consultation on any policy topic while preserving cultural values and individual privacy.
 
 ### **National Digital Identity Integration**
@@ -92,6 +94,20 @@ DeepGov Bhutan creates the world's first **NDI-verified AI-assisted evidence-dri
 ### **Innovation Factor**
 
 DeepGov Bhutan represents the **first NDI-verified AI-assisted Governance Platform**. By combining NDI authentication with conversational AI, we enable unprecedented authentic citizen input into long-term national planning while maintaining Bhutan's unique cultural heritage and democratic values. This creates replicable infrastructure for legitimate policy consultation that amplifies citizen voices in constitutional monarchy frameworks.
+
+### **NDI Integration**
+
+Takin AI is an intelligent civic participation assistant that is directly integrated with NDI for sovereign and private data sharing.
+
+<img src="https://github.com/user-attachments/assets/e270bd49-43a6-4d6e-a63d-ad93483b8665" alt="auth" width="500px">
+
+By interacting with Takin (through text or speech), the AI system is "broad-listening" to civic opinion
+
+<img src="https://github.com/user-attachments/assets/ac41a4e6-a025-4f21-89aa-45fb6b9077ee" alt="listen" width="500px">
+
+After 15 interactions, DeepGov then issues a 'Civic Champion' credential that can be used e.g. for claiming rewards and proofing impact
+
+<img src="https://github.com/user-attachments/assets/6d3b8874-a3fc-4e30-b9ad-96af78f942d6" alt="civic" width="500px">
 
 ## 🏗️ Setup Instructions
 
